@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="head_EL_CC_wall_pic.png" alt="El Coyote Cojo Bar Poster" width="100%">
+
 # El Coyote Cojo Bar Poster - H10 Bathroom
 
 **Bring a little piece of Heywood into V's H10 apartment.**
@@ -16,6 +18,10 @@
 This mod replaces the vanilla shower/toilet directional arrows in V's H10 bathroom with a custom El Coyote Cojo advertisement, inspired by the iconic Heywood bar.
 
 The poster is designed as an in-world Night City advertisement, featuring El Coyote Cojo's neon coyote identity, food, drinks, billiards, and Heywood styling. The original bathroom decal placement is retained so the poster looks naturally mounted to the wall rather than added as a separate object.
+
+<p align="center">
+  <img src="ELCC_wall_pic.png" alt="El Coyote Cojo poster installed in V's H10 bathroom" width="900">
+</p>
 
 ---
 
